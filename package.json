@@ -1,0 +1,14 @@
+{
+  "name": "contacts-backend",
+  "version": "1.0.0",
+  "description": "通讯录系统后端服务",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "sqlite3": "^5.0.2",
+    "cors": "^2.8.5"
+  }
+}
