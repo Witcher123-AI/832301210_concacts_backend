@@ -119,6 +119,3 @@ StudentID_concacts_backend/
 | name   | TEXT     | NOT NULL | 联系人姓名 |
 | phone  | TEXT     | NOT NULL | 电话号码 |
 
-## 许可证
-
-MIT License
